@@ -1,0 +1,12 @@
+h1, h2, h3, h4, h5, #Still {
+    text-align: center
+}
+
+body {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/cW5lDBG/videoblocks-a-trailblazing-3d-rendering-of-a-coding-program-with-flying-blue-letters-digits-curly-and-round-brackets-angle-quotes-and-other-symbols-in-the-black-background_hifldfoqm_thumbnail-full01.png");
+    background-size: auto auto;
+  }
+
+h1, h2 {
+    border: 1px solid blanchedalmond
+}
